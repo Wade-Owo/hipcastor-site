@@ -89,6 +89,13 @@
   number_educ: 1
   education1: BS @ SYSU (2025)
 
+- name: <a href="https://www.linkedin.com/in/wade-owojori/">Ayowade (Wade) Owojori</a>
+  photo: ayowade.jpg
+  info: Undergraduate student, since 2024
+  email: owojora@oregonstate.edu
+  number_educ: 1
+  education1: BS @ OSU (2028)
+
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="../openings">openings</a> for more info
